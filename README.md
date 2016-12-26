@@ -22,7 +22,7 @@ Defaulting to adjnoun<br>
 * Leucocratic Sampler
 * Wicker Hypermarkets
 
-# Types
+## Types
 These are the current combinations available
 * advbnoun
 * verbnoun
